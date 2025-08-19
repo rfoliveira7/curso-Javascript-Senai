@@ -1,3 +1,3 @@
 for(let i=1;i<=20;i++  ){
-    console.log(`você comeu ${i} salgados`)
+    console.log(`você comeu ${i} salgadosssss; TÁ PREUGA LARGATIXA)
     }
